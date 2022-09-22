@@ -3,7 +3,7 @@
 
 - This project is a simplified clone of Tinder. It was created with MongoDB, ExpressJs, React, NodeJs.
 
-## Demo
+## Demo:
 
 - Site: https://tinder-clone-cf847.web.app/
 
