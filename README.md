@@ -24,7 +24,7 @@ Postman
 ## Runing Project Locally
 Install dependencies: run npm install in root project
 
-Creaate a project on Firebase.
+Create a project on Firebase.
 
 Get all API and other key from here
 
