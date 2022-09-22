@@ -6,9 +6,13 @@ This project is a simplified clone of Tinder. It was created with MongoDB, Expre
 
 Tools used:
 React
+
 Axios
+
 Mongoose
+
 MUI
+
 Postman
 
 Runing Project Locally
